@@ -20,7 +20,7 @@ disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
-baseurl = "https://yoshi1125hisa.github.io/new-story"
+baseurl = "https://yoshi1125hisa.github.io/new-story/"
 
 
 [permalinks]
